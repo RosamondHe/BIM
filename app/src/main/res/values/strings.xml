@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BIM</string>
+    <string name="hhint">请输入您的身高（单位：米）</string>
+    <string name="whint">请输入您的体重（单位：千克）</string>
+    <string name="btn">计算BIM值（身体质量指数）</string>
+    <string name="result">结果是：</string>
+    <string name="advice">健康建议：</string>
+</resources>
